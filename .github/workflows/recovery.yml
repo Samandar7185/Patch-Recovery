@@ -4,12 +4,12 @@ on:
   workflow_dispatch:
     inputs:
       RECOVERY_URL:
-        description: 'RECOVERY URL'
+        description: 'https://xfl.jp/TXC6wt'
         required: true
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://xfl.jp/TXC6wt
 
 jobs:
   build:
